@@ -1,6 +1,6 @@
 ﻿# My Data and ML Learning Journey
 
-Nairobi energy. A living log of wins, losses, and new skills in Data and Machine Learning.
+A living log of wins, losses, and new skills in Data and Machine Learning.
 
 ## Why this repo
 - Daily entries for accountability.
@@ -23,6 +23,4 @@ Nairobi energy. A living log of wins, losses, and new skills in Data and Machine
 - Viz: Matplotlib basics
 - ML: scikit-learn train and metrics
 
-## Ground rules
-- Keep sensitive or heavy data out of git. Use public or anonymized data.
-- Ship daily. Kidogo kidogo hujaza kibaba.
+
