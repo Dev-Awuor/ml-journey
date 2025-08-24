@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+*.nbconvert/
+*.nb.html
+.env
+.venv/
+venv/
+env/
+.DS_Store
+Thumbs.db
+data/raw/
+data/processed/
+.vscode/
