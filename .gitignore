@@ -13,3 +13,10 @@ Thumbs.db
 data/raw/
 data/processed/
 .vscode/
+data/
+*.csv
+*.parquet
+*.xlsx
+*.zip
+*.sav
+*.h5
